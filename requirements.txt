@@ -77,3 +77,4 @@ openai
 langchain
 faiss-cpu
 sentence_transformers
+catboost
