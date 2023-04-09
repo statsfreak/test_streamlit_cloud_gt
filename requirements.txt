@@ -78,4 +78,4 @@ langchain
 faiss-cpu
 sentence_transformers
 catboost
-snowflake-snowpark
+snowflake-snowpark-python
