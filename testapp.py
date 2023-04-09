@@ -15,7 +15,7 @@ from matplotlib import container
 import matplotlib.pyplot as plt
 import streamlit as st
 import altair as alt
-from wordcloud import WordCloud, STOPWORDS
+#from wordcloud import WordCloud, STOPWORDS
 
 
 from snowflake.snowpark import Session, Row
