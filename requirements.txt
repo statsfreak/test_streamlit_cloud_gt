@@ -73,9 +73,11 @@ jupyter==1.0.0
 jupyter-client==7.4.4
 jupyter-console==6.4.4
 jupyter-core
+python=3.8.13
 openai
 langchain
 faiss-cpu
 sentence_transformers
 catboost
 snowflake-snowpark-python
+
